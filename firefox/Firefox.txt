@@ -1,0 +1,29 @@
+How to get Firefox if the website is blocked
+
+2 ways
+---------------------------------------------------
+
+way 1
+
+cmd
+
+1 step: open cmd
+
+2 step: type winget search -q firefox ( if you want to chose your own verson of firefox)
+
+2 step: adittion: type winget install 9NZVDKPMR9RD
+
+3 step: wait for it to install and boom your done
+-------------------------------------------------------------------------------------------------
+
+way 2
+
+microsoft store website
+
+1 step: go to the microsoft store website or app
+
+2 step: search firefox
+
+3 step: download the firefox file 
+
+4 step: run the file then your done

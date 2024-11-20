@@ -1,0 +1,21 @@
+how to make the admin bypass bat file 
+
+
+1 step: make a text file
+
+2 step: paste this in it cmd /min /C "set __COMPAT_LAYER=RUNASINVOKER && start "" "%1"
+
+3 step: press file 
+
+4 step: press save as
+
+5 step: on the bottom of the tiny window change the save as type from text document to all files
+
+6 step: name it whatever you want just put .bat at the end
+
+-------------------------------------------------------------------------------------------------
+how to use
+
+
+drag whatever file you want to use over the bat file and let go this will work on some apps that need admin.
+It won't work if it is an app that when you run it and have to press a Butten to ask for admin. it will only work if it is when you run it and it automatically asks for admin.
